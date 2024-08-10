@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PicoAlt")(type "KiCad")(uri "${KIPRJMOD}/PicoAlt.pretty")(options "")(descr ""))
+)

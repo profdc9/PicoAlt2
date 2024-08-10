@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PicoAlt")(type "KiCad")(uri "${KIPRJMOD}/PicoAlt.kicad_sym")(options "")(descr ""))
+  (lib (name "rp2350")(type "KiCad")(uri "${KIPRJMOD}/rp2350.kicad_sym")(options "")(descr ""))
+)
