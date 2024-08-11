@@ -2369,6 +2369,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 429feccb-29fd-4f3c-8d03-cedf5ec41a32)
   )
+  (text "NOTE TO SELF: INDUCTOR\nC2049407 ASMPM-0806-3R3M-T \nWHEN AVAILABLE"
+    (at 97.155 21.59 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ea25aeee-d771-4de8-946f-c5d9d093a2b3)
+  )
 
   (global_label "GPIO16" (shape input) (at 245.11 103.505 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
@@ -4077,7 +4082,7 @@
     (property "Datasheet" "~" (id 3) (at 129.54 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C98331" (id 4) (at 129.54 36.83 0)
+    (property "LCSC" "C162585" (id 4) (at 129.54 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6eb6ed10-756e-448e-ab33-49e12ec44bb0))
